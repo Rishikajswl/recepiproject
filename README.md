@@ -1,1 +1,1 @@
-recepiproject.netlify.app
+https://recepiproject.netlify.app
